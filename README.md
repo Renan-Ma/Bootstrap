@@ -1,5 +1,8 @@
 # 💻Projeto Caravan - Bootstrap
 
+### :dart: Objetivo do projeto
+Criar uma página utilizando Bootstrap.
+
 ## 🔗 Link Projeto
 Acesse a página  [clicando aqui](http://caravan-renan.surge.sh/).
 
